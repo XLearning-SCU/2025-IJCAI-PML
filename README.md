@@ -62,7 +62,7 @@ Table 1. Accuracy (\%) performance on normal test sets. The best and second-best
 | PML <span style="color: #888888">(Ours)</span>   |      99.32 $\pm$ 0.45      |      99.52 $\pm$ 0.95      |      49.16 $\pm$ 0.40      |      99.10 $\pm$ 0.22      |      82.70 $\pm$ 0.86      |      82.05 $\pm$ 1.36      |      99.91 $\pm$ 0.14      |
 
 
-Table 2. Accuracy ($\%$) performance on noisy test sets. The best and second-best results are in bold and underlined, respectively.
+Table 2. Accuracy (\%) performance on noisy test sets. The best and second-best results are in bold and underlined, respectively.
 | Methods                                |         Handwritten        |           MSRC-V1          |           NUSOBJ           |         Fashion-MV         |           Scene15          |           LandUse          |          Leaves100         |
 |----------------------------------------|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
 | DUA-Nets <span style="color: #888888">(AAAI’21)</span> |      98.10 $\pm$ 0.32      |      84.67 $\pm$ 3.03      |      27.75 $\pm$ 0.00      |      91.08 $\pm$ 0.17      |      65.01 $\pm$ 1.55      |      45.24 $\pm$ 1.85      |      90.31 $\pm$ 1.25      |
