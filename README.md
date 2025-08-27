@@ -1,4 +1,4 @@
-# UCCH
+# PML
 Peng Hu, Yang Qin, Yuanbiao Gou, Yunfan Li, Mouxing Yang and Xi Peng*,[Probabilistic Multimodal Learning with von Mises-Fisher Distributions](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2595.pdf), The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), 2025. (PyTorch Code)
 
 ## Abstract
